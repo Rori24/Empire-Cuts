@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "693789705190",
+    "project_id": "empirecuts-56a62",
+    "storage_bucket": "empirecuts-56a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693789705190:android:515945231f9995587d0c27",
+        "android_client_info": {
+          "package_name": "com.example.empirecuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693789705190-fgs6qdoev2kabu4nn59fmkgi4rqke814.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empirecuts",
+            "certificate_hash": "0f7ca1d449d3e428e7f549492c809b34c32fb062"
+          }
+        },
+        {
+          "client_id": "693789705190-q3s9uvg2o4snh9toqvlp5g0k249gqmec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMifrRYdLT2gI4uqCfYS-FKLp6zeok6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693789705190-q3s9uvg2o4snh9toqvlp5g0k249gqmec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
